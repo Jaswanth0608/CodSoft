@@ -1,2 +1,2 @@
 # CodSoft
-Code Softs Tasks
+CodSoft Tasks
